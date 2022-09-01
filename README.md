@@ -6,6 +6,8 @@
   $ npm install --save dotenv
   $ npm install --save-dev nodemon
   $ npm install --save oracledb
+  $ npm install --save bcryptjs
+  $ npm install --save jsonwebtoken
 ```
 
 ## Running Custom Command
